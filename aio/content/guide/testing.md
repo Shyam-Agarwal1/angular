@@ -508,7 +508,7 @@ You might decide only to test that the `clicked()` method
 toggles the light's _on/off_ state and sets the message appropriately.
 
 This component class has no dependencies.
-To test a service with no dependencies, you create it with `new`, poke at its API,
+To test a component with no dependencies, you create it with `new`, poke at its API,
 and assert expectations on its public state.
 Do the same with the component class.
 
